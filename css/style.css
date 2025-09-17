@@ -19,16 +19,17 @@ h1{
 }
 h2  {
        font-size: 30px;
-       color: #0D0D0D;
+       color: #C4C4C4;
 }
 p{
     font-size: 24px;
     padding-top: 10px;
     padding-left: 10px;
+   color: #C4C4C4;
 }
 img {
-    width: 250px;
-    display: block;
+  width: 250px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   border: dashed white 10px ;
@@ -54,6 +55,37 @@ div.red {
  border-bottom: 2px
 }
 
+div.blue {
+  background-color: #0000ff; 
+  text-align: left;
+  margin-right: 50px;
+  border-top: 2px;
+  border-right: 5px; 
+}
+
+div.yellow {
+    background-color: #f1c319;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+    }
+
+div.green {
+  background-color: #008500;
+  text-align: left;
+  margin-right: 50px; 
+  border-right: 5px;
+  border-top: 2px;  
+}
 
 
-
+footer {
+  border: 5px solid #ffffff;
+  font-size: 20px;
+  text-align: right;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 0; 
+}
