@@ -1,2 +1,2 @@
-# hw2-w25
-homework simple css
+# hw2_simple_css
+Starter code for simple css assignment
